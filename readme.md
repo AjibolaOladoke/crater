@@ -1,4 +1,12 @@
+# crater
 
+## What This Is
+
+We keep a working index for product and engineering, and crater is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
+
+## Images
+
+[![crater](images/preview.png)](https://github.com/Swift-Tech-Co/crater)
 
 ## Introduction
 
@@ -6,38 +14,22 @@ Crater is an open-source web & mobile app that helps you track expenses, payment
 
 Web Application is made using Laravel & VueJS while the Mobile Apps are built using React Native.
 
-# Table of Contents
-
-## Images
-
-[![crater](https://opengraph.githubassets.com/1/crater-invoice-inc/crater)](https://www.swifttechco.com)
-
-
-1. [Documentation](#documentation)
-2. [Download](#download)
-3. [Mobile Apps](#mobile-apps)
-4. [Telegram](#telegram)
-5. [Roadmap](#roadmap)
-6. [Credits](#credits)
-7. [Help us translate](#translate)
-8. [License](#license)
-
 ## Documentation
 
-- [Installation Steps](https://www.swifttechco.com)
-- [User Guide](https://www.swifttechco.com)
-- [Developer Guide](https://www.swifttechco.com)
-- [API Documentation](https://www.swifttechco.com)
+- [Installation Steps](https://github.com/Swift-Tech-Co/crater)
+- [User Guide](https://github.com/Swift-Tech-Co/crater)
+- [Developer Guide](https://github.com/Swift-Tech-Co/crater)
+- [API Documentation](https://github.com/Swift-Tech-Co/crater)
 
 ## Download
 
-- [Download Link](https://www.swifttechco.com)
+- [Download Link](https://github.com/Swift-Tech-Co/crater)
 
 ## Mobile Apps
 
-- [Android](https://www.swifttechco.com)
-- [IOS](https://www.swifttechco.com)
-- [Source](https://www.swifttechco.com)
+- [Android](https://github.com/Swift-Tech-Co/crater)
+- [IOS](https://github.com/Swift-Tech-Co/crater)
+- [Source](https://github.com/Swift-Tech-Co/crater)
 
 ## Telegram
 
@@ -72,32 +64,31 @@ Join the Crater telegram to discuss:
 - [ ] Time Tracking
 - [ ] Full service Payroll
 
-
 ## Copyright
 
 © 2022 Crater Invoice, Inc.
 
 **Special thanks to:**
 
-- [Birkhoff Lee](https://www.swifttechco.com)
-- [Akaunting](https://www.swifttechco.com)
-- [MakerLab](https://www.swifttechco.com)
-- [Sebastian Cretu](https://www.swifttechco.com)
-- [Florian Gareis](https://www.swifttechco.com)
+- [Birkhoff Lee](https://github.com/Swift-Tech-Co/crater)
+- [Akaunting](https://github.com/Swift-Tech-Co/crater)
+- [MakerLab](https://github.com/Swift-Tech-Co/crater)
+- [Sebastian Cretu](https://github.com/Swift-Tech-Co/crater)
+- [Florian Gareis](https://github.com/Swift-Tech-Co/crater)
 
 ## Translate
 
-Help us translate on https://www.swifttechco.com
+Help us translate on https://github.com/Swift-Tech-Co/crater
 
 **Thanks to Translation Contributors:**
 
-- [Hassan A. Ba Abdullah (Arabic)](https://www.swifttechco.com)
-- [Clément de Louvencourt (French)](https://www.swifttechco.com)
-- [Robin Delattre (French)](https://www.swifttechco.com)
-- [René Loos (Dutch)](https://www.swifttechco.com)
-- [Stefan Azarić (Serbian)](https://www.swifttechco.com)
-- [Emmanuel Lampe (German)](https://www.swifttechco.com)
-- [edevrob (Latvian)](https://www.swifttechco.com)
+- [Hassan A. Ba Abdullah (Arabic)](https://github.com/Swift-Tech-Co/crater)
+- [Clément de Louvencourt (French)](https://github.com/Swift-Tech-Co/crater)
+- [Robin Delattre (French)](https://github.com/Swift-Tech-Co/crater)
+- [René Loos (Dutch)](https://github.com/Swift-Tech-Co/crater)
+- [Stefan Azarić (Serbian)](https://github.com/Swift-Tech-Co/crater)
+- [Emmanuel Lampe (German)](https://github.com/Swift-Tech-Co/crater)
+- [edevrob (Latvian)](https://github.com/Swift-Tech-Co/crater)
 
 ## License
 
@@ -114,14 +105,21 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+[Home](https://github.com/Swift-Tech-Co/crater) | [Services](https://github.com/Swift-Tech-Co/crater/services) | [Careers](https://github.com/Swift-Tech-Co/crater/careers) | [Referral Program](https://github.com/Swift-Tech-Co/crater/referral) | [Influencers](https://github.com/Swift-Tech-Co/crater/influencers) | [About](https://github.com/Swift-Tech-Co/crater/about) | [Contact](https://github.com/Swift-Tech-Co/crater/contact)
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: [https://github.com/Swift-Tech-Co/crater](https://github.com/Swift-Tech-Co/crater)
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
-- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
